@@ -7933,7 +7933,6 @@ input::-webkit-input-placeholder {
 }
 
 .map-responsive{
-  overflow:hidden;
   padding-bottom:30%;
   position:relative;
   height:0;
