@@ -7931,3 +7931,17 @@ input::-webkit-input-placeholder {
 #demo-2 input::-webkit-input-placeholder {
 	color: transparent;
 }
+
+.map-responsive{
+  overflow:hidden;
+  padding-bottom:30%;
+  position:relative;
+  height:0;
+}
+.map-responsive iframe{
+  left:25%;
+  bottom:40px;
+  height:100%;
+  width:50%;
+  position:absolute;
+}
