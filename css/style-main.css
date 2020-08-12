@@ -8015,3 +8015,9 @@ td, th {
 tr:nth-child(even) {
   background-color: #dddddd;
 }
+
+.agenda {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
