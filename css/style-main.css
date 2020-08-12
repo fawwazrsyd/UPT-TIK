@@ -7984,3 +7984,34 @@ img {vertical-align: middle;}
   background-color: black;
   color: white;
 }
+
+.tableapp {
+  max-width: 800px;
+  position: relative;
+  margin: auto;
+  padding-bottom:20px;
+  padding-top:20px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
