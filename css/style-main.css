@@ -7911,7 +7911,7 @@ input::-webkit-input-placeholder {
 #demo-2 input[type=search] {
 	width: 20px;
 	height: 20px;
-	padding-left: 7px;
+	padding-left: 0px;
 	color: transparent;
 	cursor: pointer;
 }
@@ -7919,18 +7919,18 @@ input::-webkit-input-placeholder {
 	background-color: #202c45;
 }
 #demo-2 input[type=search]:focus {
-	width: 130px;
-	padding-left: 32px;
+	width: 100px;
+	padding-left: 30px;
 	color: #000;
 	background-color: #fff;
   cursor: auto;
   font-family: Arial, Helvetica, sans-serif;
 }
 #demo-2 input:-moz-placeholder {
-	color: transparent;
+	color: #555;
 }
 #demo-2 input::-webkit-input-placeholder {
-	color: transparent;
+	color: #555;
 }
 
 .map-responsive{
