@@ -7910,12 +7910,13 @@ input::-webkit-input-placeholder {
 /* Demo 2 */
 #demo-2 input[type=search] {
 	width: 20px;
+	height: 20px;
 	padding-left: 7px;
 	color: transparent;
 	cursor: pointer;
 }
 #demo-2 input[type=search]:hover {
-	background-color: #094b22;
+	background-color: #202c45;
 }
 #demo-2 input[type=search]:focus {
 	width: 130px;
