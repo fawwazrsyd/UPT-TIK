@@ -7918,7 +7918,7 @@ input::-webkit-input-placeholder {
 #demo-2 input[type=search]:hover {
 	background-color: #202c45;
 }
-#demo-2 input[type=search]:focus {
+#demo-2 input[type=search] {
 	width: 100px;
 	padding-left: 30px;
 	color: #000;
